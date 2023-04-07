@@ -644,3 +644,8 @@ video::-webkit-media-controls-volume-slider {
 	color:#FFF;
 	text-align:center
 }
+ sup{
+	color:#000;
+	font-weight:normal;
+	font-size:8px
+ }
